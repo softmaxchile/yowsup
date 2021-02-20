@@ -20,7 +20,7 @@ class AndroidYowsupEnv(YowsupEnv):
     _MD5_CLASSES = "johGawnfJx5vOGIePP3qKw=="
     _KEY = "eQV5aq/Cg63Gsq1sshN9T3gh+UUp0wIw0xgHYT1bnCjEqOJQKCRrWxdAe2yvsDeCJL+Y4G3PRD2HUF7oUgiGo8vGlNJOaux26k+A2F3hj8A="
 
-    _VERSION = "2.21.3"
+    _VERSION = "2.21.3.20"
     _OS_NAME = "Android"
     _OS_VERSION = "8.0.0"
     _DEVICE_NAME = "star2lte"
